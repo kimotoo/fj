@@ -18,8 +18,8 @@ if __name__ == '__main__':
 
     url = "https://weibo.com/6632894984/GyxpGgGcF?from=page_1005056632894984_profile&wvr=6&mod=weibotime&type=comment"
 
-    name1 = "425306911@qq.com"
-    pw1 = "pi31415926"
+    name1 = ""
+    pw1 = ""
 
     sess1 = login.get_session()
 
